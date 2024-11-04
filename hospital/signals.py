@@ -11,17 +11,7 @@ import random
 import string
 
 
-# # from django.core.mail import send_mail
-# # from django.conf import settings
 
-
-# error here --> two signals are working at the same time
-
-
-# @receiver(post_save, sender=User)
-# def createPatient(sender, instance, created, **kwargs):
-#     if created:
-#         Patient.objects.create(user=instance)
 
 def generate_random_string():
     N = 6
