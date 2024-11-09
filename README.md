@@ -5,8 +5,8 @@
 
 ## Contributors
 
-- **Team Members:** [Mohammed Jawwadul Islam](https://www.linkedin.com/in/jawwadfida/), [Mohammad Fahad Al Rafi](https://www.linkedin.com/in/md-fahad-al-al-rafi-14b968111/), [Moumy Kabir](https://www.linkedin.com/in/pranto-podder-b78b97162/), [Pranto Podder](https://www.linkedin.com/in/aysha-siddika-577ba5224/), [Aysha Siddika](https://www.linkedin.com/in/moumy-kabir-156a0a232/), Nafisa Akhter
-- **Project Duration:** August 2022 - September 2022
+- **Team Members:** [Steve Ongera](https://github.com/steve-ongera)
+- **Project Duration:** November 1 2024 - December 2 2024
 
 ## Tools used:
       1) Programming Language and Libraries: Django (Python web framework), Bootstrap, JavaScript, Ajax, Django REST framework.
@@ -154,12 +154,9 @@
 <img src="https://user-images.githubusercontent.com/64092765/191188138-2dd284c8-a815-4060-87f3-61ffd7c2300d.png" width="50%">
 
 
-# [Champion in UIU CSE Project Show Summer 2022 - Software Engineering Laboratory](https://www.facebook.com/100080783675315/posts/pfbid0TuQyeVT9LHJx4zCnCpaDsAGFnCGxSTMKa8Fd1XCNcpf3n1yXf6ceQQTYQ1DeahSZl/)
+# [Champion in UIU CSE Project Show Summer 2022 - Software Engineering Laboratory]
 
-<img src="https://user-images.githubusercontent.com/64092765/192018455-de998881-ac7e-4082-a8c6-3a36a59aef94.jpg" width="75%">
-
-<img src="https://user-images.githubusercontent.com/64092765/191054866-189bb76f-3377-440a-84be-d07578a26c35.jpg" width="50%">
-
+- Steve Ongera 
 
 
 
