@@ -27,7 +27,6 @@ class User(AbstractUser):
     is_hospital_admin = models.BooleanField(default=False)
     is_labworker = models.BooleanField(default=False)
     is_pharmacist = models.BooleanField(default=False)
-    #login_status = models.CharField(max_length=200, null=True, blank=True, default="offline")
     login_status = models.BooleanField(default=False)
     
 class Hospital_Information(models.Model):
@@ -40,7 +39,7 @@ class Hospital_Information(models.Model):
     hospital_id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=200, null=True, blank=True)
     address = models.CharField(max_length=200, null=True, blank=True)
-    featured_image = models.ImageField(upload_to='hospitals/', default='hospitals/default.png', null=True, blank=True)
+    featured_image = models.ImageField(upload_to='hospitals/', default='hospitals/profile.png', null=True, blank=True)
     description = models.TextField(null=True, blank=True)
     email = models.EmailField(max_length=200, null=True, blank=True)
     phone_number = models.IntegerField(null=True, blank=True)

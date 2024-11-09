@@ -48,11 +48,11 @@
 			<header class="header">
 				
 				{% if user.is_authenticated and user.is_patient %}
-				{% include 'patient_navbar.html' %}
+				   {% include 'patient_navbar.html' %}
 				{% endif %}
 				
 				{% if user.is_authenticated and user.is_doctor %}
-				{% include 'doctor-navbar.html' %}
+				    {% include 'doctor-navbar.html' %}
 				{% endif %}
 			
 			
